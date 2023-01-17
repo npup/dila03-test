@@ -1,0 +1,16 @@
+{
+    "name": "dila03-test",
+    "version": "1.0.0",
+    "description": "Testar libet dila03",
+    "main": "index.js",
+    "scripts": {
+        "esm": "node src/index.mjs",
+        "cjs": "node src/index.cjs"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "dila03": "^0.1.0"
+    }
+}
