@@ -5,12 +5,12 @@
     "main": "index.js",
     "scripts": {
         "esm": "node src/index.mjs",
-        "cjs": "node src/index.cjs"
+        "umd": "node src/index.umd.cjs"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "dila03": "^0.1.0"
+        "dila03": "^0.1.3"
     }
 }

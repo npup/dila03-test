@@ -1,7 +1,7 @@
 const dila03 = require("dila03");
 
 console.log("");
-console.log("Hej hej från commonjs");
+console.log("Hej hej från umd");
 console.log("");
 console.log("modulen:", dila03);
 console.log("");
